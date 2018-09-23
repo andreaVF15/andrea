@@ -1,4 +1,4 @@
 <?php
-header("Location:http://boosterinterior.us/mcaa/");
+header("Location: https://www.armstrongsglass.com");
 die();
 ?>
